@@ -1,0 +1,10 @@
+{
+  "name": "FlashSync AI - Studio Hub & Event Face Sync",
+  "description": "Real-time wedding & event photography tether ingestion, AI face recognition guest portal, collateral print engine, and live ballroom projection kiosk.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
